@@ -12,3 +12,4 @@ $ docker run -v "$PWD"/sample_program:/home --rm -ti alpine:exec-c
 6a333c246e82:# ./a.out
 Hello world
 ```
+fuga
