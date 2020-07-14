@@ -13,3 +13,4 @@ $ docker run -v "$PWD"/sample_program:/home --rm -ti alpine:exec-c
 Hello world
 ```
 hoge
+fuga
